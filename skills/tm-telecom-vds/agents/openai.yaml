@@ -1,0 +1,4 @@
+interface:
+  display_name: "TM Telecom VDS"
+  short_description: "Troubleshoot restricted Turkmen VDS hosting"
+  default_prompt: "Use $tm-telecom-vds to preflight a telecom.tm VDS and recommend reversible deployment workarounds."
